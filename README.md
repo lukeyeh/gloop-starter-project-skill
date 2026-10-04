@@ -54,7 +54,7 @@ bazel run //:lru -- --capacity=2 a b a c b
 ```
 
 The Gloop fork is rebased onto upstream daily, so update the commit in
-`MODULE.bazel` to the newest `nix-YYYYMMDD` tag's first; `SKILL.md` step 4
+`MODULE.bazel` to the newest `nix-YYYYMMDD` tag's commit first; `SKILL.md` step 4
 says how.
 
 ## Status
